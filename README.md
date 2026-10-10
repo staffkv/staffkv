@@ -2,8 +2,6 @@
 
 I’m a Software Engineer. Currently I'm working at Indra Company. 🚀
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=staffkv&color=blue" alt="Profile views" /> </p>
-
 #### My current tools   
 
 🌎 Front-end Web with Nextjs, Angular
